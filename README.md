@@ -33,7 +33,4 @@ Manages credentials and other sensitive data securely, reducing the risk of unau
 NIST Framework Documentation:
 An extensive report details how each security control complies with NIST standards, including threat analysis and mitigation strategies.
 
-Conclusion
-This project is a demonstration of how modern security tools can be integrated to create a robust and secure web application. By following best practices and aligning with NIST guidelines, the project serves as a benchmark for implementing advanced security measures in real-world environments. It highlights the benefits of controlled access management, encryption, and secure credential handling, ensuring the application meets rigorous security standards.
-
 For any questions or further information, please feel free to reach out or consult the accompanying documentation.
