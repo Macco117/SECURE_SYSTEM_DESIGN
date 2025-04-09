@@ -1,10 +1,13 @@
-NIST-Compliant Web Application
+NIST-Compliant Web Application:
+
 This project represents a comprehensive web application developed as part of a final exam project. It demonstrates secure access control, role segregation, and advanced security measures using industry-standard protocols and guidelines. The project is designed to showcase the potential of controlled access within a professional environment and includes extensive documentation of security controls aligned with NIST guidelines.
 
-Overview
+Overview:
+
 The primary objective of this project is to develop a web application that illustrates secure access management through various state-of-the-art tools and techniques. By integrating industry-recognized solutions, the project emphasizes the implementation of granular access controls and robust security measures. The final deliverable encompasses a detailed NIST framework that documents all security controls implemented to mitigate potential threats.
 
 Key Features
+
 Access Control & Role Segregation:
 Utilizes Keycloak with OpenID Connect alongside LDAP integrated with XACML policies. This combination ensures robust identity management, precise role assignment, and effective permission control.
 
@@ -18,6 +21,8 @@ Compliance with NIST Guidelines:
 All security measures and system components are developed in accordance with NIST standards. The project includes a comprehensive framework that details each control implemented to reduce risks from potential security threats.
 
 Tools & Technologies
+
+
 Keycloak & OpenID Connect:
 Provides a powerful identity and access management solution that facilitates secure user authentication and authorization.
 
